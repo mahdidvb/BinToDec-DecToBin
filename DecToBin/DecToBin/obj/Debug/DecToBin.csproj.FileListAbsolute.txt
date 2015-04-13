@@ -1,0 +1,8 @@
+c:\users\huashin\documents\visual studio 2013\Projects\DecToBin\DecToBin\bin\Debug\DecToBin.exe
+c:\users\huashin\documents\visual studio 2013\Projects\DecToBin\DecToBin\bin\Debug\DecToBin.pdb
+c:\users\huashin\documents\visual studio 2013\Projects\DecToBin\DecToBin\obj\Debug\DecToBin.csprojResolveAssemblyReference.cache
+c:\users\huashin\documents\visual studio 2013\Projects\DecToBin\DecToBin\obj\Debug\DecToBin.Form1.resources
+c:\users\huashin\documents\visual studio 2013\Projects\DecToBin\DecToBin\obj\Debug\DecToBin.Properties.Resources.resources
+c:\users\huashin\documents\visual studio 2013\Projects\DecToBin\DecToBin\obj\Debug\DecToBin.csproj.GenerateResource.Cache
+c:\users\huashin\documents\visual studio 2013\Projects\DecToBin\DecToBin\obj\Debug\DecToBin.exe
+c:\users\huashin\documents\visual studio 2013\Projects\DecToBin\DecToBin\obj\Debug\DecToBin.pdb
